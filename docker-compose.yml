@@ -1,0 +1,2 @@
+# Rellena el docker-compose para que puedan interactuar la aplicación de node con la base de datos de mongodb
+version: '3.3'
